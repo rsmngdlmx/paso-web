@@ -1,0 +1,1 @@
+© 2026 Ricardo Mendoza. All rights reserved.
