@@ -1,0 +1,193 @@
+{% extends 'www/base.html' %}
+
+{% block style %}
+        <style>
+            h3{font-size:14px;font-weight:400}section{position:relative;overflow:hidden}circle{stroke-width:2}line{stroke-width:1}.summary{text-align:justify}.svg-container{position:absolute}.mt-5{margin-top:5px}.mt-8{margin-top:8px}.ml-15{margin-left:15px}.m-20{margin:20px}.ml-40{margin-left:40px}.txt-bold{font-weight:600}body.cs-black circle,body.cs-black line{stroke:#62deff;fill:#62deff}body.cs-white circle,body.cs-white line{stroke:#0881a1;fill:#0881a1}body.cs-black .svg-container.last{background-color:#313131}body.cs-white .svg-container.last{background-color:#fff}
+        </style>
+{% endblock style %}
+
+{% block content %}
+                    <h1>Curriculum Vitæ</h1>
+
+                    <section class="mt-20">
+                        <p class="summary">{{ summary }}</p>
+                    </section>
+
+                    <section class="mt-20">
+                        <svg class="svg-container" width="20" height="100%">
+                            <circle cx="5" cy="12" r="3" />
+                            <line x1="5" y1="12" x2="5" y2="100%" />
+                            <line x1="5" y1="55" x2="20" y2="55" />
+                        </svg>
+                        <h2 class="ml-20">{{ skills }}</h2>
+                        <p class="mt-20 ml-40"><span class="txt-bold">{{ prog_lang }}:</span> JavaScript/TypeScript (Node.js/React), Python (Django/Flask), C# (ASP.NET), PHP (Laravel/Lumen).</p>
+                        <svg class="svg-container" width="20" height="17">
+                            <line x1="5" y1="16" x2="20" y2="16" />
+                        </svg>
+                        <p class="mt-5 ml-40"><span class="txt-bold">{{ databases }}:</span> MySQL, PostgreSQL, MongoDB, DynamoDB, Memcached.</p>
+                        <svg class="svg-container" width="20" height="17">
+                            <line x1="5" y1="16" x2="20" y2="16" />
+                        </svg>
+                        <p class="mt-5 ml-40"><span class="txt-bold">Cloud:</span> AWS (Lambda, API Gateway, EC2, S3, ECS, EKS, IAM), Azure (App Service, Front Door, Blob Storage, Virtual Machine).</p>
+                        <svg class="svg-container last" width="20" height="100%">
+                            <line x1="5" y1="0" x2="5" y2="16" />
+                            <line x1="5" y1="16" x2="20" y2="16" />
+                        </svg>
+                        <p class="mt-5 ml-40"><span class="txt-bold">DevOps:</span> Git, GitHub, Docker, Kubernetes, Terraform, Harness, New Relic.</p>
+                    </section>
+
+                    <section class="mt-20">
+                        <svg class="svg-container" width="20" height="100%">
+                            <circle cx="5" cy="12" r="3" />
+                            <line x1="5" y1="12" x2="5" y2="100%" />
+                            <line x1="5" y1="52" x2="20" y2="52" />
+                        </svg>
+                        <h2 class="ml-20">{{ work_exp }}</h2>
+                        <h3 class="mt-20 ml-40"><span class="txt-bold">Principal Engineer | {{ fullstack }}</span> - Altimetrik (<span class="txt-italics">{{ december }} 2022 - {{ present }}</span>)</h3>
+                        <ul class="mt-8 ml-15">
+                            <li>{{ w9_p1 | safe }}</li>
+                            <li>{{ w9_p2 | safe }}</li>
+                        </ul>
+                        <svg class="svg-container" width="20">
+                            <line x1="5" y1="28" x2="20" y2="28" />
+                        </svg>
+                        <h3 class="mt-20 ml-40"><span class="txt-bold">{{ techlead }} | {{ fullstack }}</span> - Mi Compa Seguros (<span class="txt-italics">{{ may }} 2021 - {{ november }} 2022</span>)</h3>
+                        <ul class="mt-8 ml-15">
+                            <li>{{ w8_p1 | safe }}</li>
+                            <li>{{ w8_p2 | safe }}</li>
+                            <li>{{ w8_p3 | safe }}</li>
+                        </ul>
+                        <svg class="svg-container" width="20">
+                            <line x1="5" y1="28" x2="20" y2="28" />
+                        </svg>
+                        <h3 class="mt-20 ml-40"><span class="txt-bold">{{ backend }}</span> - Anexinet (<span class="txt-italics">{{ october }} 2020 - {{ may }} 2021</span>)</h3>
+                        <ul class="mt-8 ml-15">
+                            <li>{{ w7_p1 | safe }}</li>
+                            <li>{{ w7_p2 | safe }}</li>
+                        </ul>
+                        <svg class="svg-container" width="20">
+                            <line x1="5" y1="28" x2="20" y2="28" />
+                        </svg>
+                        <h3 class="mt-20 ml-40"><span class="txt-bold">{{ fullstack }}</span> - {{ gov }} (<span class="txt-italics">{{ may }} 2019 - {{ october }} 2020</span>)</h3>
+                        <ul class="mt-8 ml-15">
+                            <li>{{ w6_p1 | safe }}</li>
+                            <li>{{ w6_p2 | safe }}</li>
+                            <li>{{ w6_p3 | safe }}</li>
+                        </ul>
+                        <svg class="svg-container" width="20">
+                            <line x1="5" y1="28" x2="20" y2="28" />
+                        </svg>
+                        <h3 class="mt-20 ml-40"><span class="txt-bold">{{ dot_net_dev }}</span> - Calafia Airlines (<span class="txt-italics">{{ september }} 2015 - {{ april }} 2019</span>)</h3>
+                        <ul class="mt-8 ml-15">
+                            <li>{{ w5_p1 | safe }}</li>
+                            <li>{{ w5_p2 | safe }}</li>
+                            <li>{{ w5_p3 | safe }}</li>
+                        </ul>
+                        <svg class="svg-container" width="20">
+                            <line x1="5" y1="28" x2="20" y2="28" />
+                        </svg>
+                        <h3 class="mt-20 ml-40"><span class="txt-bold">{{ fullstack }}</span> - {{ udg }} (CUCS) (<span class="txt-italics">{{ july }} 2014 - {{ july }} 2015</span>)</h3>
+                        <ul class="mt-8 ml-15">
+                            <li>{{ w4_p1 | safe }} [<a class="external-link" href="{{ cdn_url }}/assets/img/docs/cursalia.jpg" target="_blank" rel="noopener noreferrer">{{ recognition }}</a>]</li>
+                        </ul>
+                        <svg class="svg-container" width="20">
+                            <line x1="5" y1="28" x2="20" y2="28" />
+                        </svg>
+                        <h3 class="mt-20 ml-40"><span class="txt-bold">{{ techlead }} | {{ backend }} | {{ mobile_dev }}</span> - Kokone (<span class="txt-italics">{{ july }} 2012 - {{ november }} 2014</span>)</h3>
+                        <ul class="mt-8 ml-15">
+                            <li>{{ w3_p1 | safe }}</li>
+                            <li>{{ w3_p2 | safe }}</li>
+                            <li>{{ w3_p3 | safe }}</li>
+                            <li>{{ w3_p4 | safe }}</li>
+                        </ul>
+                        <svg class="svg-container" width="20">
+                            <line x1="5" y1="28" x2="20" y2="28" />
+                        </svg>
+                        <h3 class="mt-20 ml-40"><span class="txt-bold">{{ tech_support }} | {{ dot_net_dev }}</span> - Alliance Française de Guadalajara (<span class="txt-italics">{{ november }} 2010 - {{ october }} 2012</span>)</h3>
+                        <ul class="mt-8 ml-15">
+                            <li>{{ w2_p1 }}</li>
+                            <li>{{ w2_p2 | safe }}</li>
+                        </ul>
+                        <svg class="svg-container last" width="20" height="100%">
+                            <line x1="5" y1="0" x2="5" y2="28" />
+                            <line x1="5" y1="28" x2="20" y2="28" />
+                        </svg>
+                        <h3 class="mt-20 ml-40"><span class="txt-bold">{{ ms_intern }}</span> - {{ udg }} (CGTI) (<span class="txt-italics">{{ october }} 2007 - {{ october }} 2009</span>)</h3>
+                        <ul class="mt-8 ml-15">
+                            <li>{{ w1_p1 | safe }}</li>
+                        </ul>
+                    </section>
+
+                    <section class="mt-20">
+                        <svg class="svg-container" width="20" height="100%">
+                            <circle cx="5" cy="12" r="3" />
+                            <line x1="5" y1="12" x2="5" y2="100%" />
+                            <line x1="5" y1="52" x2="20" y2="52" />
+                        </svg>
+                        <h2 class="ml-20">{{ edu_title }}</h2>
+                        <svg class="svg-container last" width="20" height="100%">
+                            <line x1="5" y1="0" x2="5" y2="28" />
+                            <line x1="5" y1="28" x2="20" y2="28" />
+                        </svg>
+                        <h3 class="mt-20 ml-40"><span class="txt-bold">{{ deg_title }}</span> - {{ udg }} (<span class="txt-italics">2007 - 2011</span>)</h3>
+                    </section>
+
+                    <section class="mt-20">
+                        <svg class="svg-container" width="20" height="100%">
+                            <circle cx="5" cy="12" r="3" />
+                            <line x1="5" y1="12" x2="5" y2="100%" />
+                            <line x1="5" y1="55" x2="20" y2="55" />
+                        </svg>
+                        <h2 class="ml-20">{{ certs_title }}</h2>
+                        <p class="mt-20 ml-40"><span class="txt-bold">PCEP - Certified Entry-Level Python Programmer</span> - Python Institute [<a class="external-link" href="https://verify.openedg.org/?id=0BAQ.FigZ.HW7d" target="_blank" rel="noopener noreferrer">{{ verification_link }}</a>]</p>
+                        <svg class="svg-container" width="20" height="17">
+                            <line x1="5" y1="16" x2="20" y2="16" />
+                        </svg>
+                        <p class="mt-5 ml-40"><span class="txt-bold">Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</span> - Oracle [<a class="external-link" href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=712C91FE0F92D7BC6614C42CD87AC2E426A8CB523A2AB8A490E67B0330E15C14" target="_blank" rel="noopener noreferrer">{{ verification_link }}</a>]</p>
+                        <svg class="svg-container last" width="20" height="100%">
+                            <line x1="5" y1="0" x2="5" y2="16" />
+                            <line x1="5" y1="16" x2="20" y2="16" />
+                        </svg>
+                        <p class="mt-5 ml-40"><span class="txt-bold">Oracle Cloud Infrastructure 2025 Certified Generative AI Professional</span> - Oracle [<a class="external-link" href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4E9C037DBBAB1CA0F6302F38CD4C6276592BBEE49E0E2F532D6D996F1A939281" target="_blank" rel="noopener noreferrer">{{ verification_link }}</a>]</p>
+                    </section>
+
+                    <section class="mt-20">
+                        <svg class="svg-container" width="20" height="100%">
+                            <circle cx="5" cy="12" r="3" />
+                            <line x1="5" y1="12" x2="5" y2="100%" />
+                            <line x1="5" y1="52" x2="20" y2="52" />
+                        </svg>
+                        <h2 class="ml-20">{{ personal_projects }}</h2>
+                        <h3 class="mt-20 ml-40"><span class="txt-bold">{{ personal_website }}</span> [<a class="external-link" href="{{ web_url }}" target="_blank">Web</a>]</h3>
+                        <p class="mt-5 ml-40">{{ p1_p1 | safe }}</p>
+                        <svg class="svg-container last" width="20" height="100%">
+                            <line x1="5" y1="0" x2="5" y2="28" />
+                            <line x1="5" y1="28" x2="20" y2="28" />
+                        </svg>
+                        <h3 class="mt-20 ml-40"><span class="txt-bold">Chingu - Asian Street Food</span> [<a class="external-link" href="{{ chingu_url }}" target="_blank">Web</a>]</h3>
+                        <p class="mt-5 ml-40">{{ p2_p1 | safe }}</p>
+                    </section>
+
+                    <section class="mt-20">
+                        <svg class="svg-container" width="20" height="100%">
+                            <circle cx="5" cy="12" r="3" />
+                            <line x1="5" y1="12" x2="5" y2="100%" />
+                            <line x1="5" y1="55" x2="20" y2="55" />
+                        </svg>
+                        <h2 class="ml-20">{{ languages }}</h2>
+                        <p class="mt-20 ml-40"><span class="txt-bold">{{ spanish }}:</span> {{ native }}.</p>
+                        <svg class="svg-container" width="20" height="17">
+                            <line x1="5" y1="16" x2="20" y2="16" />
+                        </svg>
+                        <p class="mt-5 ml-40"><span class="txt-bold">{{ english }}:</span> C1.</p>
+                        <svg class="svg-container" width="20" height="17">
+                            <line x1="5" y1="16" x2="20" y2="16" />
+                        </svg>
+                        <p class="mt-5 ml-40"><span class="txt-bold">{{ french }}:</span> B2.</p>
+                        <svg class="svg-container last" width="20" height="100%">
+                            <line x1="5" y1="0" x2="5" y2="16" />
+                            <line x1="5" y1="16" x2="20" y2="16" />
+                        </svg>
+                        <p class="mt-5 ml-40"><span class="txt-bold">{{ japanese }}:</span> ~N5.</p>
+                    </section>
+{% endblock content %}
