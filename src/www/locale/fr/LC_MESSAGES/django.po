@@ -1,0 +1,560 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-21 01:11-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\www\outils\content\bio.py:17
+msgid "Some quote"
+msgstr ""
+"Comment décide-t-on de la valeur d'une vie? Ce qui importe, [...] ce n'est "
+"pas de mourir, c'est ce qu'on fait au moment où on meurt."
+
+#: .\www\outils\content\bio.py:18
+msgid "Some quote author"
+msgstr "Muriel Barbery. L'élégance du hérisson."
+
+#: .\www\outils\content\bio.py:19
+msgid ""
+"I'm a Software Engineer graduated from the <a class=\"external-link\" "
+"href=\"https://www.udg.mx/\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">University of Guadalajara</a> with extensive experience in web "
+"development and recent experience incorporating AI into the SDLC. I'm "
+"passionate about traveling, language learning, music, and food."
+msgstr ""
+"Ingénieur en Informatique diplômé de l'<a class=\"external-link\" "
+"href=\"https://www.udg.mx/\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Université de Guadalajara</a> avec de l'expérience comme "
+"développeur web full stack. Globe-trotteur; passioné par la musique, les "
+"langues et la nourriture."
+
+#: .\www\outils\content\bio.py:25
+msgid ""
+"I'm currently working as a Principal Engineer at <a class=\"external-link\" "
+"href=\"https://www.altimetrik.com/\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Altimetrik</a>, making use of AI for enhancing software "
+"development and creating solutions that have a positive impact on people."
+msgstr ""
+"Je travaille actuellement comme Principal Engineer dans <a class=\"external-"
+"link\" href=\"https://www.altimetrik.com/\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Altimetrik</a>, en utilisant l'IA pour améliorer le "
+"développement logiciel et en créant des solutions ayant un impact positif "
+"sur les gens."
+
+#: .\www\outils\content\bio.py:30
+msgid ""
+"I improved the lives of many through technology at <a class=\"external-"
+"link\" href=\"https://www.micompaseguros.com/\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Mi Compa</a>. I worked as a Tech Lead, "
+"innovating and providing quality services to the people."
+msgstr ""
+"J'ai aidé à ameliorer la vie de nombreuses personnes à travers de la "
+"technologie dans <a class=\"external-link\" href=\"https://"
+"www.micompaseguros.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Mi "
+"Compa</a>. J'ai travaillé comme Tech Lead en cherchant toujours de "
+"l'innovation pour fournir de meilleurs services aux gens."
+
+#: .\www\outils\content\bio.py:35
+msgid ""
+"I was part of the amazing team of developers at <span>Anexinet</span>. I "
+"worked as a Senior Backend Developer, exploring Serverless technologies to "
+"build and deliver robust solutions."
+msgstr ""
+"Je faisais partie de l'équipe de développeurs dans <span>Anexinet</span>. "
+"J'ai travaillé comme développeur web back end, en explorant les technologies "
+"Serverless pour construire et livrer des solutions solides aux gens."
+
+#: .\www\outils\content\bio.py:38
+msgid ""
+"I worked as a Full-stack Developer at the <a class=\"external-link\" "
+"href=\"https://cgig.jalisco.gob.mx/\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Innovation Division</a> of the Government of the State of "
+"Jalisco. I was part of the department of New Technologies, responsible for "
+"creating innovative solutions that keep the State of Jalisco at the leading "
+"edge of technology."
+msgstr ""
+"J'ai travaillé comme développeur web full stack dans le <a class=\"external-"
+"link\" href=\"https://cgig.jalisco.gob.mx/\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Département d'Innovation du Gouvernement</a> de "
+"l'État de Jalisco. J'ai été membre de la division des Nouvelles "
+"Technologies, en charge de developper des solutions lesquelles permettent "
+"l'État de se mantenir à la pointe de la tecnologie."
+
+#: .\www\outils\content\bio.py:45
+msgid ""
+"I worked as a .NET Developer at <span>Calafia Airlines</span>, helping to "
+"build and maintain the main booking system as well as connecting the "
+"airline's booking APIs with external brokers like SkyScanner and Expedia."
+msgstr ""
+"J'ai travaillé comme développeur .NET dans <span>Calafia Airlines</span>. "
+"J'ai contribué à développer et mantenir le système de réservation principal "
+"ainsi qu'à connecter les APIs de la compagnie aux brokers tels que "
+"SkyScanner et Expedia."
+
+#: .\www\outils\content\bio.py:49
+msgid ""
+"I was in charge of developing the first version of Cursalia, a MOOC platform "
+"written in Python for the University of Guadalajara and <a class=\"external-"
+"link\" href=\"https://sapiensmedicus.org/\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Sapiens Medicus</a>."
+msgstr ""
+"J'etais responsable de developper la première version de Cursalia, une plate-"
+"forme pour donner cours de santé en ligne faite pour l'Université de "
+"Guadalajara en collaboration avec <a class=\"external-link\" href=\"https://"
+"sapiensmedicus.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Sapiens "
+"Medicus</a>."
+
+#: .\www\outils\content\bio.py:54
+msgid ""
+"I worked as the lead developer of CARES, a project that finished amongst the "
+"finalists on the international contest FI-WARE Smart Cities (January 2014) "
+"and then won the first place on the international contest FI-WARE Smart "
+"Society (October 2014)."
+msgstr ""
+"J'ai été chef de l'équipe de développeurs de CARES, un projet qui a été "
+"parmis les finalistes du concours international FI-WARE Smart Cities "
+"(janvier 2014) et qui a gagné le premier prix du concours international FI-"
+"WARE Smart Society (octobre 2014)."
+
+#: .\www\outils\content\bio.py:58
+msgid "Thanks a lot for stopping by! Have a great day!"
+msgstr "Merci de visiter mon site! Bonne journée!"
+
+#: .\www\outils\content\cv.py:17
+msgid ""
+"I'm a Software Engineer with over 15 years of experience as a Full Stack "
+"Developer. I have extensive experience developing REST APIs, microservices, "
+"and Serverless solutions. My work focuses on architecting and developing "
+"secure, efficient, and scalable applications using mainly JavaScript and "
+"Python, as well as deploying them to cloud providers like AWS and Azure. I "
+"recently began incorporating AI throughout the SDLC to boost development "
+"speed and improve the quality of the software."
+msgstr ""
+"Je suis un Ingénieur en Informatique avec plus de 15 ans d'expérience comme "
+"Développeur Full Stack. J'ai beaucoup d'expérience avec REST APIs, "
+"microservices et solutions serverless. Mon travail consiste à architecturer "
+"et développer des systèmes sécurisés, efficaces et évolutifs en utilisant "
+"principalement JavaScript et Python et en les déployant dans AWS et Azure. "
+"J'ai récemment commencé à incorporer l'IA dans le SDLC pour augmenter la "
+"vitesse de développement et pour ameliorer la qualité des systèmes."
+
+#: .\www\outils\content\cv.py:26
+msgid "Technical skills"
+msgstr "Compétences techniques"
+
+#: .\www\outils\content\cv.py:27
+msgid "Programming languages"
+msgstr "Langages de programmation"
+
+#: .\www\outils\content\cv.py:28
+msgid "Databases"
+msgstr "Bases de données"
+
+#: .\www\outils\content\cv.py:29
+msgid "Professional experience"
+msgstr "Expérience professionnelle"
+
+#: .\www\outils\content\cv.py:30
+msgid "Apr"
+msgstr "avril"
+
+#: .\www\outils\content\cv.py:31
+msgid "May"
+msgstr "mai"
+
+#: .\www\outils\content\cv.py:32
+msgid "Jul"
+msgstr "juil."
+
+#: .\www\outils\content\cv.py:33
+msgid "Sep"
+msgstr "sept."
+
+#: .\www\outils\content\cv.py:34
+msgid "Oct"
+msgstr "oct."
+
+#: .\www\outils\content\cv.py:35
+msgid "Nov"
+msgstr "nov."
+
+#: .\www\outils\content\cv.py:36
+msgid "Dec"
+msgstr "déc."
+
+#: .\www\outils\content\cv.py:37
+msgid "Currently working here"
+msgstr "Je travail actuellement ici"
+
+#: .\www\outils\content\cv.py:38
+msgid "Full Stack Developer"
+msgstr "Développeur Full Stack"
+
+#: .\www\outils\content\cv.py:39
+msgid "Tech Lead"
+msgstr "Responsable Technique"
+
+#: .\www\outils\content\cv.py:40
+msgid "Back End Developer"
+msgstr "Développeur Back End"
+
+#: .\www\outils\content\cv.py:41
+msgid ".NET Developer"
+msgstr "Développeur .NET"
+
+#: .\www\outils\content\cv.py:42
+msgid "iOS/Android Developer"
+msgstr "Développeur iOS/Android"
+
+#: .\www\outils\content\cv.py:43
+msgid "Technical Support"
+msgstr "Assistence Technique"
+
+#: .\www\outils\content\cv.py:44
+msgid "Microsoft Intern"
+msgstr "Stagiaire Microsoft"
+
+#: .\www\outils\content\cv.py:45
+msgid "Government of the State of Jalisco (CGIG)"
+msgstr "Gouvernement de l'État de Jalisco (CGIG)"
+
+#: .\www\outils\content\cv.py:46
+msgid "University of Guadalajara"
+msgstr "Université de Guadalajara"
+
+#: .\www\outils\content\cv.py:47
+msgid "Recognition"
+msgstr "Diplôme"
+
+#: .\www\outils\content\cv.py:48
+msgid ""
+"In charge of the tech transition of several stacks from <span class=\"txt-"
+"bold\">.NET</span> to <span class=\"txt-bold\">Node.js</span> to help reduce "
+"infrastructure costs while improving the performance and scalability of the "
+"stacks. Deployed the stacks to <span class=\"txt-bold\">AWS Lambda</span>, "
+"<span class=\"txt-bold\">ECS</span>, and <span class=\"txt-bold\">EKS</span> "
+"services using <span class=\"txt-bold\">Terraform</span> and <span "
+"class=\"txt-bold\">Harness</span>."
+msgstr ""
+"Responsable de la migration de plusieurs services de <span class=\"txt-"
+"bold\">.NET</span> à <span class=\"txt-bold\">Node.js</span> pour aider "
+"réduir les coûts d'infrastructure et favoriser l'évolutivité, la flexibilité "
+"et la performance des services. Ces services sont déployés dans <span "
+"class=\"txt-bold\">AWS Lambda</span>, <span class=\"txt-bold\">ECS</span>, "
+"and <span class=\"txt-bold\">EKS</span> en utilisant <span class=\"txt-"
+"bold\">Terraform</span> et <span class=\"txt-bold\">Harness</span>."
+
+#: .\www\outils\content\cv.py:57
+msgid ""
+"Contributed to the development of several web components made with <span "
+"class=\"txt-bold\">Vanilla JavaScript</span>. The web components helped "
+"standardize the UI/UX throughout the website of one of Altimetrik's clients."
+msgstr ""
+"J'ai contribué à développer plusieurs Web Components avec <span class=\"txt-"
+"bold\">Vanilla JavaScript</span>. Ces Web Components aide standardiser le UI/"
+"UX du site internet de l'un des clients d'Altimetrik."
+
+#: .\www\outils\content\cv.py:61
+msgid ""
+"Led the development team to successfuly achieve the technical goals of the "
+"company."
+msgstr ""
+"Responsable Technique de l'équipe de développeurs de la start-up avec "
+"l'objectif de mener à bien les buts techniques."
+
+#: .\www\outils\content\cv.py:63
+msgid ""
+"Developed a chatbot for converting leads into customers through social "
+"channels like Facebook Messenger and WhatsApp. The chatbot helped increase "
+"leads conversion by 26%. It was developed using <span class=\"txt-"
+"bold\">Node.js</span>, <span class=\"txt-bold\">MySQL</span>, <span "
+"class=\"txt-bold\">PostgreSQL</span> and <span class=\"txt-bold\">MongoDB</"
+"span>."
+msgstr ""
+"Développement du chatbot utilisé par la start-up pour transformer les "
+"clients potentiels en ventes par des moyens de communication sociales comme "
+"Facebook Messenger et WhatsApp. Le chatbot a aidé augmenter de 26% la "
+"conversion de clients. Usage de <span class=\"txt-bold\">Node.js</span>, "
+"<span class=\"txt-bold\">MySQL</span>, <span class=\"txt-bold\">PostgreSQL</"
+"span> et <span class=\"txt-bold\">MongoDB</span>."
+
+#: .\www\outils\content\cv.py:70
+msgid ""
+"Contributed to the development of the company's CRM using <span class=\"txt-"
+"bold\">Node.js</span>, <span class=\"txt-bold\">AWS Lambda</span>, <span "
+"class=\"txt-bold\">MySQL</span>, <span class=\"txt-bold\">PostgreSQL</span> "
+"and <span class=\"txt-bold\">React</span>."
+msgstr ""
+"J'ai contribué à développer le CRM de la start-up en utilisant <span "
+"class=\"txt-bold\">Node.js</span>, <span class=\"txt-bold\">AWS Lambda</"
+"span>, <span class=\"txt-bold\">MySQL</span>, <span class=\"txt-"
+"bold\">PostgreSQL</span> et <span class=\"txt-bold\">React</span>."
+
+#: .\www\outils\content\cv.py:75
+msgid ""
+"Developed microservices using <span class=\"txt-bold\">Node.js</span> and "
+"<span class=\"txt-bold\">GraphQL</span> and deployed them to <span "
+"class=\"txt-bold\">AWS Lambda</span>."
+msgstr ""
+"J'ai développé des microservices avec <span class=\"txt-bold\">Node.js</"
+"span> et <span class=\"txt-bold\">GraphQL</span> et je les ai déployé dans "
+"<span class=\"txt-bold\">AWS Lambda</span>."
+
+#: .\www\outils\content\cv.py:78
+msgid ""
+"Implemented a <span class=\"txt-bold\">Headless CMS (Webiny)</span> to "
+"dynamically serve localized content for a website, improving loading times "
+"by nearly 30%."
+msgstr ""
+"J'ai implémenté un <span class=\"txt-bold\">Headless CMS (Webiny)</span> "
+"pour servir dynamiquement du contenu localisé pour une application web. Cela "
+"a contribué à diminuer d'environ 30% les temps de chargement."
+
+#: .\www\outils\content\cv.py:81
+msgid ""
+"Built web applications using a client-server architecture with <span "
+"class=\"txt-bold\">Angular</span> in the front end and <span class=\"txt-"
+"bold\">Lumen (PHP)</span> in the back end. Developed backend services with "
+"an MVC architecture using <span class=\"txt-bold\">Laravel (PHP)</span> "
+"connected to <span class=\"txt-bold\">MySQL</span> and <span class=\"txt-"
+"bold\">PostgreSQL</span> databases."
+msgstr ""
+"J'ai développé des systèmes et applications web avec une architecture client-"
+"serveur avec <span class=\"txt-bold\">Angular</span> dans le front end et "
+"<span class=\"txt-bold\">Lumen (PHP)</span> dans le back end de même q'une "
+"architecture MVC avec <span class=\"txt-bold\">Laravel (PHP)</span>. Usage "
+"de <span class=\"txt-bold\">MySQL</span> et <span class=\"txt-"
+"bold\">PostgreSQL</span>."
+
+#: .\www\outils\content\cv.py:88
+msgid ""
+"Developed a backend management system for a Government department using "
+"<span class=\"txt-bold\">Django (Python)</span> and <span class=\"txt-"
+"bold\">PostgreSQL</span> to help increase productivity by automating several "
+"processes of the department."
+msgstr ""
+"J'ai développé un système back end pour un organisme gouvernemental avec "
+"<span class=\"txt-bold\">Django (Python)</span> et <span class=\"txt-"
+"bold\">PostgreSQL</span> lequel a augmenté la productivité en automatisant "
+"plusieurs processus de l'organisme."
+
+#: .\www\outils\content\cv.py:93
+msgid ""
+"Collaborated on building a mobile app for a social program using the <span "
+"class=\"txt-bold\">Ionic</span> framework."
+msgstr ""
+"J'ai collaboré dans le développement d'une application mobile avec le "
+"framework <span class=\"txt-bold\">Ionic</span>."
+
+#: .\www\outils\content\cv.py:95
+msgid ""
+"Worked on the REST APIs that constituted the booking engine of the airline "
+"using <span class=\"txt-bold\">C#</span>, <span class=\"txt-bold\">ASP.NET "
+"MVC</span> and <span class=\"txt-bold\">ASP.NET Core</span>."
+msgstr ""
+"J'ai contribué à développer les APIs et services web que font partie du "
+"moteur de réservation de la compagnie aérienne avec <span class=\"txt-"
+"bold\">C#</span>, <span class=\"txt-bold\">ASP.NET MVC</span> et <span "
+"class=\"txt-bold\">ASP.NET Core</span>."
+
+#: .\www\outils\content\cv.py:99
+msgid ""
+"In charge of the integration of the airline's booking engine with some of "
+"the major booking brokers like Expedia, SkyScanner, and Despegar, resulting "
+"in a considerable boost on the airline's sales."
+msgstr ""
+"Responsable de la connexion du moteur de réservation de la compagnie "
+"aérienne avec des brokers de réservations parmis les plus grands: Expedia, "
+"SkyScanner, et Despegar. Cela a augmenté les vents considérablement."
+
+#: .\www\outils\content\cv.py:103
+msgid ""
+"Collaborated on configuring and managing virtual servers and cloud services "
+"on <span class=\"txt-bold\">Azure</span>."
+msgstr ""
+"J'ai contribué à la configuration et la gestion de serveurs et services en "
+"nuage <span class=\"txt-bold\">Azure</span>."
+
+#: .\www\outils\content\cv.py:105
+msgid ""
+"Designed, architected, and developed a MOOC platform based on Open edX. It "
+"was built with <span class=\"txt-bold\">Django (Python)</span> and <span "
+"class=\"txt-bold\">Flask (Python)</span> and deployed on a private server "
+"with <span class=\"txt-bold\">Debian</span> and <span class=\"txt-"
+"bold\">Nginx</span>."
+msgstr ""
+"J'ai développé une plate-forme MOOC basé sur Open edX avec <span class=\"txt-"
+"bold\">Django (Python)</span> et <span class=\"txt-bold\">Flask (Python)</"
+"span>. Cette plate-forme a été déployée dans un serveur <span class=\"txt-"
+"bold\">Debian</span> privé avec <span class=\"txt-bold\">Nginx</span>."
+
+#: .\www\outils\content\cv.py:111
+msgid ""
+"Led the development of CARES, a healthcare project that won the first place "
+"on the international contest FI-WARE Smart Society (october 2014) and was "
+"amongst the finalists of the internatinoal contest FI-WARE Smart Cities "
+"(january 2014)."
+msgstr ""
+"Responsable Technique de l'équipe qui a développé CARES, un projet pour la "
+"santé, lequel a gagné la première place au concours international FI-WARE "
+"Smart Society (octobre 2014) et qui a été finaliste au concours FI-WARE "
+"Smart Cities (janvier 2014)."
+
+#: .\www\outils\content\cv.py:115
+msgid ""
+"Developed web services with <span class=\"txt-bold\">Tornado (Python)</span>."
+msgstr ""
+"J'ai développé des services web avec <span class=\"txt-bold\">Tornado "
+"(Python)</span>."
+
+#: .\www\outils\content\cv.py:117
+msgid ""
+"Built productivity apps for iOS and Android using <span class=\"txt-"
+"bold\">Objective-C</span> and <span class=\"txt-bold\">Java</span>."
+msgstr ""
+"J'ai développé des applications de productivité avec <span class=\"txt-"
+"bold\">Objective-C</span> et <span class=\"txt-bold\">Java</span>."
+
+#: .\www\outils\content\cv.py:120
+msgid ""
+"Collaborated on the development of videogames for iOS using <span "
+"class=\"txt-bold\">Objective-C</span> and <span class=\"txt-bold\">Cocos 2D</"
+"span>."
+msgstr ""
+"J'ai collaboré dans le développement de jeux video pour iOS en utilisant "
+"<span class=\"txt-bold\">Objective-C</span> et <span class=\"txt-"
+"bold\">Cocos 2D</span>."
+
+#: .\www\outils\content\cv.py:123
+msgid "In charge of the computerization of the institution."
+msgstr "Responsable du projet d'informatisation de l'institution."
+
+#: .\www\outils\content\cv.py:124
+msgid ""
+"Built a desktop application to help manage the library of the institution "
+"with <span class=\"txt-bold\">.NET (C#)</span> and <span class=\"txt-"
+"bold\">MySQL</span>."
+msgstr ""
+"J'ai développé un logiciel pour la gestion de la bibliothèque de "
+"l'institution avec <span class=\"txt-bold\">.NET (C#)</span> et <span "
+"class=\"txt-bold\">MySQL</span>."
+
+#: .\www\outils\content\cv.py:127
+msgid ""
+"Contributed to the development of a desktop application to monitor "
+"UDGLive@edu accounts using <span class=\"txt-bold\">.NET (C#)</span> and "
+"<span class=\"txt-bold\">Oracle</span>."
+msgstr ""
+"J'ai contribué à développer un logiciel pour superviser les comptes du "
+"courier électronique UDGLive@edu avec <span class=\"txt-bold\">.NET (C#)</"
+"span> et <span class=\"txt-bold\">Oracle</span>."
+
+#: .\www\outils\content\cv.py:130
+msgid "Education"
+msgstr "Éducation"
+
+#: .\www\outils\content\cv.py:131
+msgid "Computer Engineering"
+msgstr "Génie en Informatique"
+
+#: .\www\outils\content\cv.py:132
+msgid "Certifications"
+msgstr "Certificats"
+
+#: .\www\outils\content\cv.py:133
+msgid "Verification link"
+msgstr "Lien de vérification"
+
+#: .\www\outils\content\cv.py:134
+msgid "Personal projects"
+msgstr "Projets personnels"
+
+#: .\www\outils\content\cv.py:135
+msgid "Personal website"
+msgstr "Site internet personnel"
+
+#: .\www\outils\content\cv.py:136 .\www\outils\content\cv.py:139
+msgid ""
+"Website developed with <span class=\"txt-bold\">Django (Python)</span> and "
+"deployed on a <span class=\"txt-bold\">Web App</span> on <span class=\"txt-"
+"bold\">Azure</span>."
+msgstr ""
+"Site internet développé avec <span class=\"txt-bold\">Django (Python)</span> "
+"et déployé dans une <span class=\"txt-bold\">Web App</span> dans <span "
+"class=\"txt-bold\">Azure</span>."
+
+#: .\www\outils\content\cv.py:142
+msgid "Languages"
+msgstr "Langues"
+
+#: .\www\outils\content\cv.py:143
+msgid "native"
+msgstr "langue maternelle"
+
+#: .\www\outils\content\cv.py:144
+msgid "English"
+msgstr "Anglais"
+
+#: .\www\outils\content\cv.py:145
+msgid "Spanish"
+msgstr "Espagnol"
+
+#: .\www\outils\content\cv.py:146
+msgid "French"
+msgstr "Français"
+
+#: .\www\outils\content\cv.py:147
+msgid "Japanese"
+msgstr "Japonais"
+
+#: .\www\outils\content\cv.py:148
+msgid "German"
+msgstr "Allemand"
+
+#: .\www\outils\content\portfolio.py:17
+msgid ""
+"My personal website. Responsive and accessible. Lightweight: HTML, CSS and "
+"Vanilla JS for the front end; Django (Python) for the back end. Deployed on "
+"a Web App in Microsoft Azure. All content in all three languages was written "
+"by me, without the use of AI or any translator."
+msgstr ""
+"Mon site internet personnel. Réactif et accessible. Léger: HTML, CSS et "
+"Vanilla JS pour le front end et Django (Python) for the back end. Déployé "
+"dans une Web App dans Microsoft Azure. Tout le contenu dans tous les langues "
+"à été écrit par moi, sans l'aide d'IA ou un traducteur."
+
+#: .\www\outils\content\portfolio.py:23
+msgid ""
+"A website I created for a local food chain. I built it using HTML, CSS and "
+"Vanilla JS for the front end and Django (Python) for the back end. It is "
+"deployed on a Web App in Microsoft Azure."
+msgstr ""
+"Un site internet creé pour une chaine de restaurants locale. Je l'ai "
+"développé avec HTML, CSS et Vanilla JS pour le front end et Django (Python) "
+"pour le back end. Déployé dans une Web App dans Microsoft Azure."
+
+#: .\www\outils\context_processors.py:28
+msgid "Go to main content"
+msgstr "Aller au contenu principal"
+
+#: .\www\outils\context_processors.py:33
+msgid ""
+"Software Engineer with extensive experience in web development as well as "
+"incorporating AI into the SDLC."
+msgstr ""
+"Ingénieur en Informatique avec de l'expérience solide comme développeur web "
+"et l'incorporation d'IA dans le SDLC."
