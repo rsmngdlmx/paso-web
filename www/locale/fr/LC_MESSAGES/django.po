@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-21 01:11-0600\n"
+"POT-Creation-Date: 2026-08-25 03:28-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,13 +19,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: .\www\outils\content\bio.py:17
-msgid "Some quote"
+msgid "Immerse your soul in love"
 msgstr ""
 "Comment décide-t-on de la valeur d'une vie? Ce qui importe, [...] ce n'est "
 "pas de mourir, c'est ce qu'on fait au moment où on meurt."
 
 #: .\www\outils\content\bio.py:18
-msgid "Some quote author"
+msgid "Radiohead. Street Spirit (Fade Out)"
 msgstr "Muriel Barbery. L'élégance du hérisson."
 
 #: .\www\outils\content\bio.py:19

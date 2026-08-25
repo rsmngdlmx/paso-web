@@ -14,8 +14,8 @@ from django.utils.translation import gettext_lazy as _
 
 content = {
     'title': 'Ricardo Mendoza',
-    'quote': _('Some quote'),
-    'quote_author': _('Some quote author'),
+    'quote': _('Immerse your soul in love'),
+    'quote_author': _('Radiohead. Street Spirit (Fade Out)'),
     'p1': _("I'm a Software Engineer graduated from the <a "
             'class="external-link" href="https://www.udg.mx/" '
             'target="_blank" rel="noopener noreferrer">University of '
