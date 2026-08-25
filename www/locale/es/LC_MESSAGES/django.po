@@ -249,7 +249,7 @@ msgstr ""
 "rendimiento y la escalabilidad de dichas soluciones. Despliegue de las "
 "soluciones en <span class=\"txt-bold\">AWS Lambda</span>, <span class=\"txt-"
 "bold\">ECS</span>, y <span class=\"txt-bold\">EKS</span> usando <span "
-"class=\"txt-bold\">Terraform</span> y class=\"txt-bold\">Harness</span>."
+"class=\"txt-bold\">Terraform</span> y <span class=\"txt-bold\">Harness</span>."
 
 #: .\www\outils\content\cv.py:57
 msgid ""
