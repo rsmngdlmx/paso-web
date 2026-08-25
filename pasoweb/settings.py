@@ -5,7 +5,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'lo+4#axw7f(gmy$bpeu)f2&+!4-0uszuck^%8ioj8=1k5-==ace79$fs3c44a[44961qey0d2wd99p//R10h')
 DEBUG = os.environ.get('DJANGO_DEBUG', 'False') == 'True'
-ALLOWED_HOSTS = [os.environ.get('WEBSITE_HOSTNAME', 'localhost')]
+ALLOWED_HOSTS = [os.environ.get('CUSTOM_DOMAIN', 'localhost')]
 
 INSTALLED_APPS = [
     'django.contrib.admin',
