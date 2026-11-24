@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-25 03:28-0600\n"
+"POT-Creation-Date: 2026-11-24 03:50-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -127,6 +127,10 @@ msgid "Thanks a lot for stopping by! Have a great day!"
 msgstr "¡Gracias por tu visita! ¡Que tengas un excelente día!"
 
 #: .\www\outils\content\cv.py:17
+msgid "Download PDF version"
+msgstr "Descargar versión en PDF"
+
+#: .\www\outils\content\cv.py:18
 msgid ""
 "I'm a Software Engineer with over 15 years of experience as a Full Stack "
 "Developer. I have extensive experience developing REST APIs, microservices, "
@@ -145,95 +149,95 @@ msgstr ""
 "en el SDLC para aumentar la velocidad de desarrollo y mejorar la calidad del "
 "software."
 
-#: .\www\outils\content\cv.py:26
+#: .\www\outils\content\cv.py:27
 msgid "Technical skills"
 msgstr "Habilidades técnicas"
 
-#: .\www\outils\content\cv.py:27
+#: .\www\outils\content\cv.py:28
 msgid "Programming languages"
 msgstr "Lenguajes de programación"
 
-#: .\www\outils\content\cv.py:28
+#: .\www\outils\content\cv.py:29
 msgid "Databases"
 msgstr "Bases de datos"
 
-#: .\www\outils\content\cv.py:29
+#: .\www\outils\content\cv.py:30
 msgid "Professional experience"
 msgstr "Experiencia profesional"
 
-#: .\www\outils\content\cv.py:30
+#: .\www\outils\content\cv.py:31
 msgid "Apr"
 msgstr "abr."
 
-#: .\www\outils\content\cv.py:31
+#: .\www\outils\content\cv.py:32
 msgid "May"
 msgstr "mayo"
 
-#: .\www\outils\content\cv.py:32
+#: .\www\outils\content\cv.py:33
 msgid "Jul"
 msgstr "jul."
 
-#: .\www\outils\content\cv.py:33
+#: .\www\outils\content\cv.py:34
 msgid "Sep"
 msgstr "sept."
 
-#: .\www\outils\content\cv.py:34
+#: .\www\outils\content\cv.py:35
 msgid "Oct"
 msgstr "oct."
 
-#: .\www\outils\content\cv.py:35
+#: .\www\outils\content\cv.py:36
 msgid "Nov"
 msgstr "nov."
 
-#: .\www\outils\content\cv.py:36
+#: .\www\outils\content\cv.py:37
 msgid "Dec"
 msgstr "dic."
 
-#: .\www\outils\content\cv.py:37
+#: .\www\outils\content\cv.py:38
 msgid "Currently working here"
 msgstr "Actualmente trabajando aquí"
 
-#: .\www\outils\content\cv.py:38
+#: .\www\outils\content\cv.py:39
 msgid "Full Stack Developer"
 msgstr "Desarrollador Fullstack"
 
-#: .\www\outils\content\cv.py:39
+#: .\www\outils\content\cv.py:40
 msgid "Tech Lead"
 msgstr "Líder Técnico"
 
-#: .\www\outils\content\cv.py:40
+#: .\www\outils\content\cv.py:41
 msgid "Back End Developer"
 msgstr "Desarrollador Backend"
 
-#: .\www\outils\content\cv.py:41
+#: .\www\outils\content\cv.py:42
 msgid ".NET Developer"
 msgstr "Desarrollador .NET"
 
-#: .\www\outils\content\cv.py:42
+#: .\www\outils\content\cv.py:43
 msgid "iOS/Android Developer"
 msgstr "Desarrollador iOS/Android"
 
-#: .\www\outils\content\cv.py:43
+#: .\www\outils\content\cv.py:44
 msgid "Technical Support"
 msgstr "Soporte Técnico"
 
-#: .\www\outils\content\cv.py:44
+#: .\www\outils\content\cv.py:45
 msgid "Microsoft Intern"
 msgstr "Becario Microsoft"
 
-#: .\www\outils\content\cv.py:45
+#: .\www\outils\content\cv.py:46
 msgid "Government of the State of Jalisco (CGIG)"
 msgstr "Gobierno del Estado de Jalisco (CGIG)"
 
-#: .\www\outils\content\cv.py:46
+#: .\www\outils\content\cv.py:47
 msgid "University of Guadalajara"
 msgstr "Universidad de Guadalajara"
 
-#: .\www\outils\content\cv.py:47
+#: .\www\outils\content\cv.py:48
 msgid "Recognition"
 msgstr "Reconocimiento"
 
-#: .\www\outils\content\cv.py:48
+#: .\www\outils\content\cv.py:49
 msgid ""
 "In charge of the tech transition of several stacks from <span class=\"txt-"
 "bold\">.NET</span> to <span class=\"txt-bold\">Node.js</span> to help reduce "
@@ -249,9 +253,10 @@ msgstr ""
 "rendimiento y la escalabilidad de dichas soluciones. Despliegue de las "
 "soluciones en <span class=\"txt-bold\">AWS Lambda</span>, <span class=\"txt-"
 "bold\">ECS</span>, y <span class=\"txt-bold\">EKS</span> usando <span "
-"class=\"txt-bold\">Terraform</span> y <span class=\"txt-bold\">Harness</span>."
+"class=\"txt-bold\">Terraform</span> y <span class=\"txt-bold\">Harness</"
+"span>."
 
-#: .\www\outils\content\cv.py:57
+#: .\www\outils\content\cv.py:58
 msgid ""
 "Contributed to the development of several web components made with <span "
 "class=\"txt-bold\">Vanilla JavaScript</span>. The web components helped "
@@ -262,7 +267,7 @@ msgstr ""
 "ayudaron a estandarizar la interfaz y experiencia del usuario en el sitio "
 "web de uno de los clientes de Altimetrik."
 
-#: .\www\outils\content\cv.py:61
+#: .\www\outils\content\cv.py:62
 msgid ""
 "Led the development team to successfuly achieve the technical goals of the "
 "company."
@@ -270,7 +275,7 @@ msgstr ""
 "Dirigí el equipo de desarrolladores para alcanzar los objetivos técnicos de "
 "lacompañía."
 
-#: .\www\outils\content\cv.py:63
+#: .\www\outils\content\cv.py:64
 msgid ""
 "Developed a chatbot for converting leads into customers through social "
 "channels like Facebook Messenger and WhatsApp. The chatbot helped increase "
@@ -286,7 +291,7 @@ msgstr ""
 "class=\"txt-bold\">PostgreSQL</span> y <span class=\"txt-bold\">MongoDB</"
 "span>."
 
-#: .\www\outils\content\cv.py:70
+#: .\www\outils\content\cv.py:71
 msgid ""
 "Contributed to the development of the company's CRM using <span class=\"txt-"
 "bold\">Node.js</span>, <span class=\"txt-bold\">AWS Lambda</span>, <span "
@@ -298,7 +303,7 @@ msgstr ""
 "class=\"txt-bold\">MySQL</span>, <span class=\"txt-bold\">PostgreSQL</span> "
 "y <span class=\"txt-bold\">React</span>."
 
-#: .\www\outils\content\cv.py:75
+#: .\www\outils\content\cv.py:76
 msgid ""
 "Developed microservices using <span class=\"txt-bold\">Node.js</span> and "
 "<span class=\"txt-bold\">GraphQL</span> and deployed them to <span "
@@ -308,7 +313,7 @@ msgstr ""
 "<span class=\"txt-bold\">GraphQL</span> y los desplegué en <span class=\"txt-"
 "bold\">AWS Lambda</span>."
 
-#: .\www\outils\content\cv.py:78
+#: .\www\outils\content\cv.py:79
 msgid ""
 "Implemented a <span class=\"txt-bold\">Headless CMS (Webiny)</span> to "
 "dynamically serve localized content for a website, improving loading times "
@@ -318,7 +323,7 @@ msgstr ""
 "despachar dinámicamente contenido localizado para un sitio web, optimizando "
 "tiempos de carga cerca de un 30%."
 
-#: .\www\outils\content\cv.py:81
+#: .\www\outils\content\cv.py:82
 msgid ""
 "Built web applications using a client-server architecture with <span "
 "class=\"txt-bold\">Angular</span> in the front end and <span class=\"txt-"
@@ -334,7 +339,7 @@ msgstr ""
 "conectado a bases de datos <span class=\"txt-bold\">MySQL</span> y <span "
 "class=\"txt-bold\">PostgreSQL</span>."
 
-#: .\www\outils\content\cv.py:88
+#: .\www\outils\content\cv.py:89
 msgid ""
 "Developed a backend management system for a Government department using "
 "<span class=\"txt-bold\">Django (Python)</span> and <span class=\"txt-"
@@ -346,7 +351,7 @@ msgstr ""
 "bold\">PostgreSQL</span>, ayudando a incrementar la productividad al "
 "automatizar diversos procesos del departamento."
 
-#: .\www\outils\content\cv.py:93
+#: .\www\outils\content\cv.py:94
 msgid ""
 "Collaborated on building a mobile app for a social program using the <span "
 "class=\"txt-bold\">Ionic</span> framework."
@@ -354,7 +359,7 @@ msgstr ""
 "Colaboré en la creación de una app para dispositivos móviles para un "
 "programa social usando el framework <span class=\"txt-bold\">Ionic</span>."
 
-#: .\www\outils\content\cv.py:95
+#: .\www\outils\content\cv.py:96
 msgid ""
 "Worked on the REST APIs that constituted the booking engine of the airline "
 "using <span class=\"txt-bold\">C#</span>, <span class=\"txt-bold\">ASP.NET "
@@ -364,7 +369,7 @@ msgstr ""
 "aerolínea usando <span class=\"txt-bold\">C#</span>, <span class=\"txt-"
 "bold\">ASP.NET MVC</span> y <span class=\"txt-bold\">ASP.NET Core</span>."
 
-#: .\www\outils\content\cv.py:99
+#: .\www\outils\content\cv.py:100
 msgid ""
 "In charge of the integration of the airline's booking engine with some of "
 "the major booking brokers like Expedia, SkyScanner, and Despegar, resulting "
@@ -374,7 +379,7 @@ msgstr ""
 "algunos de los mayores brokers de reservaciones como Expedia, SkyScanner y "
 "Despegar, resultando en un aumento considerable en las vents de la aerolínea."
 
-#: .\www\outils\content\cv.py:103
+#: .\www\outils\content\cv.py:104
 msgid ""
 "Collaborated on configuring and managing virtual servers and cloud services "
 "on <span class=\"txt-bold\">Azure</span>."
@@ -382,7 +387,7 @@ msgstr ""
 "Colaboré en la configuración y el mantenimiento de servidores virtuales y "
 "servicios en la nube de <span class=\"txt-bold\">Azure</span>."
 
-#: .\www\outils\content\cv.py:105
+#: .\www\outils\content\cv.py:106
 msgid ""
 "Designed, architected, and developed a MOOC platform based on Open edX. It "
 "was built with <span class=\"txt-bold\">Django (Python)</span> and <span "
@@ -396,7 +401,7 @@ msgstr ""
 "servidor privado con <span class=\"txt-bold\">Debian</span> and <span "
 "class=\"txt-bold\">Nginx</span>."
 
-#: .\www\outils\content\cv.py:111
+#: .\www\outils\content\cv.py:112
 msgid ""
 "Led the development of CARES, a healthcare project that won the first place "
 "on the international contest FI-WARE Smart Society (october 2014) and was "
@@ -408,14 +413,14 @@ msgstr ""
 "(octubre 2014) y fue finalista en el concurso internacional FI-WARE Smart "
 "Cities (enero 2014)."
 
-#: .\www\outils\content\cv.py:115
+#: .\www\outils\content\cv.py:116
 msgid ""
 "Developed web services with <span class=\"txt-bold\">Tornado (Python)</span>."
 msgstr ""
 "Desarrollé servicios web con <span class=\"txt-bold\">Tornado (Python)</"
 "span>."
 
-#: .\www\outils\content\cv.py:117
+#: .\www\outils\content\cv.py:118
 msgid ""
 "Built productivity apps for iOS and Android using <span class=\"txt-"
 "bold\">Objective-C</span> and <span class=\"txt-bold\">Java</span>."
@@ -423,7 +428,7 @@ msgstr ""
 "Desarrollé apps de productividad para iOS y Android usando <span class=\"txt-"
 "bold\">Objective-C</span> and <span class=\"txt-bold\">Java</span>."
 
-#: .\www\outils\content\cv.py:120
+#: .\www\outils\content\cv.py:121
 msgid ""
 "Collaborated on the development of videogames for iOS using <span "
 "class=\"txt-bold\">Objective-C</span> and <span class=\"txt-bold\">Cocos 2D</"
@@ -432,11 +437,11 @@ msgstr ""
 "Colaboré en el desarrollo de videojuegos para iOS usando <span class=\"txt-"
 "bold\">Objective-C</span> y <span class=\"txt-bold\">Cocos 2D</span>."
 
-#: .\www\outils\content\cv.py:123
+#: .\www\outils\content\cv.py:124
 msgid "In charge of the computerization of the institution."
 msgstr "A cargo de la computarización de la institución."
 
-#: .\www\outils\content\cv.py:124
+#: .\www\outils\content\cv.py:125
 msgid ""
 "Built a desktop application to help manage the library of the institution "
 "with <span class=\"txt-bold\">.NET (C#)</span> and <span class=\"txt-"
@@ -446,7 +451,7 @@ msgstr ""
 "biblioteca de la institución con <span class=\"txt-bold\">.NET (C#)</span> y "
 "<span class=\"txt-bold\">MySQL</span>."
 
-#: .\www\outils\content\cv.py:127
+#: .\www\outils\content\cv.py:128
 msgid ""
 "Contributed to the development of a desktop application to monitor "
 "UDGLive@edu accounts using <span class=\"txt-bold\">.NET (C#)</span> and "
@@ -456,31 +461,31 @@ msgstr ""
 "cuentas UDGLive@edu usando <span class=\"txt-bold\">.NET (C#)</span> y <span "
 "class=\"txt-bold\">Oracle</span>."
 
-#: .\www\outils\content\cv.py:130
+#: .\www\outils\content\cv.py:131
 msgid "Education"
 msgstr "Educación"
 
-#: .\www\outils\content\cv.py:131
+#: .\www\outils\content\cv.py:132
 msgid "Computer Engineering"
 msgstr "Ingeniería en Computación"
 
-#: .\www\outils\content\cv.py:132
+#: .\www\outils\content\cv.py:133
 msgid "Certifications"
 msgstr "Certificaciones"
 
-#: .\www\outils\content\cv.py:133
+#: .\www\outils\content\cv.py:134
 msgid "Verification link"
 msgstr "Link de verificación"
 
-#: .\www\outils\content\cv.py:134
+#: .\www\outils\content\cv.py:135
 msgid "Personal projects"
 msgstr "Proyectos personales"
 
-#: .\www\outils\content\cv.py:135
+#: .\www\outils\content\cv.py:136
 msgid "Personal website"
 msgstr "Sitio web persional"
 
-#: .\www\outils\content\cv.py:136 .\www\outils\content\cv.py:139
+#: .\www\outils\content\cv.py:137 .\www\outils\content\cv.py:140
 msgid ""
 "Website developed with <span class=\"txt-bold\">Django (Python)</span> and "
 "deployed on a <span class=\"txt-bold\">Web App</span> on <span class=\"txt-"
@@ -490,31 +495,31 @@ msgstr ""
 "desplegado en una <span class=\"txt-bold\">Web App</span> en <span "
 "class=\"txt-bold\">Azure</span>."
 
-#: .\www\outils\content\cv.py:142
+#: .\www\outils\content\cv.py:143
 msgid "Languages"
 msgstr "Idiomas"
 
-#: .\www\outils\content\cv.py:143
+#: .\www\outils\content\cv.py:144
 msgid "native"
 msgstr "nativo"
 
-#: .\www\outils\content\cv.py:144
+#: .\www\outils\content\cv.py:145
 msgid "English"
 msgstr "Inglés"
 
-#: .\www\outils\content\cv.py:145
+#: .\www\outils\content\cv.py:146
 msgid "Spanish"
 msgstr "Español"
 
-#: .\www\outils\content\cv.py:146
+#: .\www\outils\content\cv.py:147
 msgid "French"
 msgstr "Francés"
 
-#: .\www\outils\content\cv.py:147
+#: .\www\outils\content\cv.py:148
 msgid "Japanese"
 msgstr "Japonés"
 
-#: .\www\outils\content\cv.py:148
+#: .\www\outils\content\cv.py:149
 msgid "German"
 msgstr "Alemán"
 

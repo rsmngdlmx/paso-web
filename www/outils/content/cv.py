@@ -14,6 +14,7 @@ from django.utils.translation import gettext_lazy as _
 
 content = {
     'title': 'Curriculum Vitæ | Ricardo Mendoza',
+    'download': _('Download PDF version'),
     'summary': _("I'm a Software Engineer with over 15 years of experience as "
                 'a Full Stack Developer. I have extensive experience '
                 'developing REST APIs, microservices, and Serverless '
